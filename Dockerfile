@@ -1,5 +1,5 @@
-FROM openjdk:8-jre
-MAINTAINER Singularities
+FROM openjdk:8-jdk
+MAINTAINER Jensen Zhang
 
 # Version
 ENV HADOOP_VERSION=2.7.3
